@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abel Assefa</h1>
-<h3 align="center">A passionate Android & AFull Stack developer from Ethiopia</h3>
+<h3 align="center">I'm a software engineering student from Ethiopia.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abelink2119&label=Profile%20views&color=0e75b6&style=flat" alt="abelink2119" /> </p>
 
@@ -7,7 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/abelink2119" target="blank"><img src="https://img.shields.io/twitter/follow/abelink2119?logo=twitter&style=for-the-badge" alt="abelink2119" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+
+- Hello, I'm Abel Assefa. I'm a software engineering student specializing in Full Stack development (frontend & backend) and DevOps projects. I have honed my skills in the field of software development and continue to further enhance my knowledge.
+
+- I am currently a Fourth-Year student. **WOLDIA UNIVERSITY **
+
+- 📫 How to reach me **abelink2119@gmail.com**
 <p align="left">
 <a href="https://twitter.com/abelink2119" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abelink2119" height="30" width="40" /></a>
 </p>
